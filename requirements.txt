@@ -4,4 +4,4 @@ requests==2.18.4
 torchvision==0.4.1+cu92
 torch==1.4.0+cu92
 psutil==5.6.7
-Pillow==7.1.0
+Pillow==9.0.1
