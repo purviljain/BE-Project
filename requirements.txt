@@ -1,5 +1,5 @@
 pandas==0.23.3
-numpy==1.16.4
+numpy==1.22.0
 requests==2.18.4
 torchvision==0.4.1+cu92
 torch==1.4.0+cu92
